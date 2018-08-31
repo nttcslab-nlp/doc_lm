@@ -1,7 +1,7 @@
 # Direct Output Connection for a High-Rank Language Model
 
 This repository contains source files we used in our paper
->Direct Output Connection for a High-Rank Language Model
+>[Direct Output Connection for a High-Rank Language Model](https://arxiv.org/abs/1808.10143)
 
 >Sho Takase, Jun Suzuki, Masaaki Nagata
 
