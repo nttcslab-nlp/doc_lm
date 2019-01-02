@@ -4,9 +4,10 @@ cd data
 echo "- Downloading Penn Treebank (PTB)"
 mkdir -p penn
 cd penn
-wget --quiet --continue https://github.com/pytorch/examples/raw/master/word_language_model/data/penn/train.txt
-wget --quiet --continue https://github.com/pytorch/examples/raw/master/word_language_model/data/penn/valid.txt
-wget --quiet --continue https://github.com/pytorch/examples/raw/master/word_language_model/data/penn/test.txt
+wget --quiet --continue -O train.txt https://raw.githubusercontent.com/yangsaiyong/tf-adaptive-softmax-lstm-lm/master/ptb_data/ptb.train.txt
+wget --quiet --continue -O valid.txt https://raw.githubusercontent.com/yangsaiyong/tf-adaptive-softmax-lstm-lm/master/ptb_data/ptb.valid.txt
+wget --quiet --continue -O test.txt https://raw.githubusercontent.com/yangsaiyong/tf-adaptive-softmax-lstm-lm/master/ptb_data/ptb.test.txt
+
 cd ..
 
 echo "- Downloading WikiText-2 (WT2)"
