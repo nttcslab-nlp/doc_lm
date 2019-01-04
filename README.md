@@ -5,7 +5,7 @@ This repository contains source files we used in our paper
 
 >Sho Takase, Jun Suzuki, Masaaki Nagata
 
->Preprint 2018
+> Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, 2018
 
 ## Requirements
 
