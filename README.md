@@ -11,6 +11,8 @@ This repository contains source files we used in our paper
 
 Python 3.5, PyTorch 0.2.0
 
+About 9.5 GB of VRAM (tested on K80).
+
 ## Download the data
 
 ```./get_data.sh```
