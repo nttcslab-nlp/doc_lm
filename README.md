@@ -5,11 +5,13 @@ This repository contains source files we used in our paper
 
 >Sho Takase, Jun Suzuki, Masaaki Nagata
 
->Preprint 2018
+> Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing
 
 ## Requirements
 
 Python 3.5, PyTorch 0.2.0
+
+About 9.5 GB of VRAM (tested on K80).
 
 ## Download the data
 
