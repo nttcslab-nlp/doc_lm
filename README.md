@@ -49,6 +49,14 @@ Third, run evaluation
 
 ```python cal_ppl.py --data data/wikitext-2 --save PATH_TO_FOLDER/finetune_model.pt --bptt 1000```
 
+### Pre-trained Models
+
+[https://drive.google.com/open?id=1ug-6ISrXHEGcWTk5KIw8Ojdjuww-i-Ci](https://drive.google.com/open?id=1ug-6ISrXHEGcWTk5KIw8Ojdjuww-i-Ci)
+
+ptb, wikitext2: models to obtain the single model results
+
+ptb_ensemble, wikitext2_ensemble: other trained models to obtain ensemble results
+
 
 ## Licenses
 
